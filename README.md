@@ -6,7 +6,7 @@ Just take a look at [the file](./ohno.md) and you'll see :)
 
 Credit to all the [humans](./humans.md).
 
-[What started this](https://discord.com/channels/413070382636072960/428209373953916930/806898462053761066) (OSM World Discord)
+[What started this](https://discord.com/channels/413070382636072960/428209373953916930/806898462053761066 "We thought it would be funny to make a bot that responded to someone saying \"Google Maps\" with one of these.") (OSM World Discord)
 
 ## How the file works
 
@@ -18,5 +18,5 @@ Credit to all the [humans](./humans.md).
 
 ## License
 
-This repo is released under the [DBAD](https://dbad-license.org/) license.
+This repo is released under the [DBAD](https://dbad-license.org/ "Don't Be A Dick") license.
 By contributing you agree to this.
