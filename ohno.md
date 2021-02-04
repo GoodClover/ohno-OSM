@@ -8,7 +8,7 @@
 
 ... someone glues all your roads to nearby landuses.
 
-... someone uses `highway=road`.
+... someone uses `Highway=Road`.
 
 ... some HOT mappers visited your area.
 
@@ -78,7 +78,7 @@
 
 ... someone adds Google Maps in the source tag.
 
-... JOSM and iD stop working, and the Potlatch editors feel smug
+... JOSM and iD stop working, and the Potlatch editors feel smug.
 
 ... you have to map more greenhouses in Demre.
 
