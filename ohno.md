@@ -101,3 +101,7 @@
 ... we become CC-BY-SA-ND.
 
 ... someone suggests changing to CC-0.
+
+... someone maps multiple tennis courts as one.
+
+... you cannot delete any OSM elements for one month.
