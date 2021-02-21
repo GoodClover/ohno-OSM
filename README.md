@@ -1,6 +1,6 @@
 # ohno-OSM
 
-A comunity made list of OSM "oh no" messages.
+A community-made list of OSM "oh no" messages.
 
 Just take a look at [the file](./ohno.md) and you'll see :)
 

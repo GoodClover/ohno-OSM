@@ -26,13 +26,11 @@
 
 ... you'll get 100 conflicts on your next upload.
 
-... someone adds a thousand not-quite rectangular buildings.
-
-... someone tags draws a road through a house.
+... someone draws a road through a house.
 
 ... you switch to Maxar imagery.
 
-... someone changes a building name to the romanised form
+... someone changes a building name to the romanised form.
 
 ... someone forgets to tag a way as a building.
 
@@ -72,7 +70,7 @@
 
 ... someone explains the difference between path and footway.
 
-... JOSM causes a Blue Screen.
+... JOSM causes a Blue Screen of Death.
 
 ... someone updates `opening_hours` rather than `opening_hours:covid19`.
 
@@ -86,13 +84,13 @@
 
 ... every way you touch will be part of a massive landuse multipolygon relation that won't load in JOSM.
 
-... JOSM takes over your soul ever so mor.
+... JOSM takes over your soul ever so more.
 
-... JOSM starts flipping your left & right mouse button.
+... JOSM starts flipping your left and right mouse button.
 
 ... JOSM's snow for christmas is displayed all the time, not just at start up.
 
-... 2 JOSM keyboard shortcuts are randomly switched.
+... two JOSM keyboard shortcuts are randomly switched.
 
 ... a JOSM plugin suddenly stops working.
 
@@ -101,3 +99,7 @@
 ... we become CC-BY-SA-ND.
 
 ... someone suggests changing to CC-0.
+
+... someone deletes a way along with all of its history only to draw a new one in the same place with slightly different tags.
+
+... iD starts adding `nonstraight=yes` to lines that shouldn't be straightened.

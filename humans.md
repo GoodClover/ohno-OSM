@@ -12,3 +12,5 @@ Zen#8660
 [Berrely](https://www.openstreetmap.org/user/Berrely)
 •
 [mappinglander](https://www.openstreetmap.org/user/mappinglander)
+*
+[riiga](https://www.openstreetmap.org/user/riiga)
