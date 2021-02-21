@@ -109,3 +109,7 @@
 ... someone converts the country of Canada to a bus stop.
 
 ... someone adds `public_transport:version=3` to a bus route relation.
+
+... someone maps multiple tennis courts as one.
+
+... you cannot delete any OSM elements for one month.
