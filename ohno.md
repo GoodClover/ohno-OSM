@@ -103,3 +103,9 @@
 ... someone deletes a way along with all of its history only to draw a new one in the same place with slightly different tags.
 
 ... iD starts adding `nonstraight=yes` to lines that shouldn't be straightened.
+
+... someone tags for the renderer.
+
+... someone converts the country of Canada to a bus stop.
+
+... someone adds `public_transport:version=3` to a bus route relation.
