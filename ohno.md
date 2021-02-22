@@ -113,3 +113,11 @@
 ... someone maps multiple tennis courts as one.
 
 ... you cannot delete any OSM elements for one month.
+
+... someone incorrectly uses `service=driveway`.
+
+... someone tags a rollercoaster as a railway.
+
+... someone imports outdated landuse.
+
+... someone maps a school as a node, but the recreation ground as an area.
