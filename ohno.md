@@ -137,3 +137,7 @@
 ... the coordinates stored in OSM lose one bit of precision.
 
 ... a bay is wiped off the map.
+
+... somebody uses the `role` key.
+
+... somebody uses `type=*` on a non-relation. 
