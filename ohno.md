@@ -10,7 +10,7 @@
 
 ... someone uses `Highway=Road`.
 
-... some HOT mappers visited your area.
+... some HOT mappers visits your area.
 
 ... the offset of your favorite imagery is adjusted in a random direction.
 
@@ -34,7 +34,7 @@
 
 ... someone forgets to tag a way as a building.
 
-... someone uploaded a closed way with just `area=yes`.
+... someone uploads a closed way with just `area=yes`.
 
 ... someone tags `barrier` on a landuse.
 
@@ -88,21 +88,21 @@
 
 ... JOSM starts flipping your left and right mouse button.
 
-... JOSM's snow for christmas is displayed all the time, not just at start up.
+... JOSM's snow for christmas is displayed all the time, not just at start-up.
 
 ... two JOSM keyboard shortcuts are randomly switched.
 
 ... a JOSM plugin suddenly stops working.
 
-... we have to change the OSM license again.
+... the OSM license needs to change again.
 
-... we become CC-BY-SA-ND.
+... OpenStreetMap becomes CC-BY-SA-ND.
 
 ... someone suggests changing to CC-0.
 
 ... someone deletes a way along with all of its history only to draw a new one in the same place with slightly different tags.
 
-... iD starts adding `nonstraight=yes` to lines that shouldn't be straightened.
+... iD starts adding `nonstraight=yes` to ways that shouldn't be straightened.
 
 ... someone tags for the renderer.
 
@@ -140,4 +140,4 @@
 
 ... somebody uses the `role` key.
 
-... somebody uses `type=*` on a non-relation. 
+... somebody uses `type=*` on a non-relation.
