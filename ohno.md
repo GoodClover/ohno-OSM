@@ -10,7 +10,7 @@
 
 ... someone uses `Highway=Road`.
 
-... some HOT mappers visits your area.
+... some HOT mappers visit your area.
 
 ... the offset of your favorite imagery is adjusted in a random direction.
 
