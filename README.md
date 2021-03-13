@@ -11,6 +11,7 @@ Credit to all the [humans](./humans.md).
 ## How the file works
 
 * Messages have a somewhat bad outcome.
+* Please keep to the same tense as the rest of the messages. As a rule of thumb it should sound normal following "When you do x ..."
 * Each message should be on a single line, with blank lines between messages.
 * Messages should start with `...`.
 * Encapsulate tags in \`, e.g. `highway=footway`.
