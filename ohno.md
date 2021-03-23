@@ -141,3 +141,7 @@
 ... somebody uses the `role` key.
 
 ... somebody uses `type=*` on a non-relation.
+
+... somebody assigns the tag `unicorn:parking_lot` to a garage.
+
+... all of your OpenStreetMap contributions in the past week are deleted irrecoverably.
