@@ -15,7 +15,7 @@ When dragging a node, hold `Ctrl` to automatically merge it with nearby nodes.
 
 `Alt-1/2/…` will toggle if an imagery layer is visibile, with 1 being the bottom layer.
 
-When merging or deleting nodes/wyas you can use `Ctrl-Alt-D` to download the referrers before making the changes.
+When merging or deleting nodes/ways you can use `Ctrl-Alt-D` to download the referrers before making the changes.
 That will solve issues with other elements that are connected to these nodes/ways.
 
 Selecting multiple POIs and pressing `L` will line them all in a row.
