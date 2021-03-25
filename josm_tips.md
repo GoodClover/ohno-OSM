@@ -13,9 +13,9 @@ When dragging a node, hold `Ctrl` to automatically merge it with nearby nodes.
 
 `[` in the todo plugin will skip the current item but leave it in the todo list and go to the next.
 
-`Alt-1/2/…` will toggle if an imagery layer is visibile, with 1 being the bottom layer.
+`Alt-1/2/…` will toggle if an imagery layer is visible, with 1 being the bottom layer.
 
-When merging or deleting nodes/wyas you can use `Ctrl-Alt-D` to download the referrers before making the changes.
+When merging or deleting nodes/ways you can use `Ctrl-Alt-D` to download the referrers before making the changes.
 That will solve issues with other elements that are connected to these nodes/ways.
 
 Selecting multiple POIs and pressing `L` will line them all in a row.
@@ -34,3 +34,23 @@ The reverse works too! Copying `way 12345678` and pressing paste in JOSM will pa
 In the Map Paint Styles Dialog - right click on a style - some have style settings for extra effects.
 
 In Draw mode, holding the `Alt` key while clicking the mouse will start a new way from the last node.
+
+Holding the `Alt` key when drag selecting will select the entire object(s) of any node(s) in the selection area.
+
+Left click drag will make a selection rectangle; you can move that rectangle outline by adding a right mouse click without releasing the left click and dragging.
+
+For overlapping objects, middle click the object will cycle objects in a small popup (or `Alt` left click to cycle without popup).
+
+Double left click on an object (area or multipolygon) will select the object (good if you are zoomed out and are not able to click and edge).
+
+To get perfect pentagon hexagon or octagon (for example, if creating gazebos)  draw a 5, 6 or 8 sided way, then press `O` , `Tools → Align Nodes in a Circle`.
+
+If you have programable buttons on your mouse, set them to your most used shortcuts.  examples: `Q`, `]`, `DEL`, `CTRL+Z`.
+
+In extrude mode, double click on an existing way to create a new node at that point. This gives fine grained control on what you extrude.
+
+The building tool plugin allows you to add/change the tags used, so instead of building=yes, you could do building=house   or  leisure=swimming_pool access=private  if you plan to add many rectangular pools.  Go to `Data` → `Set building size and shape` → `Avanced...`
+ 
+Select 2 nodes on a way, then select 1 or more other ways, press `Q` and the ways will square corners and align to the 2 selected nodes.
+
+Pressing `Q` on a way will square the corners (orthogonalize).  After squared, you can click on a node in the way and  press `Shift+Q` to undo that node.    This can be useful if a mostly rectangular way has a diagonal section.
