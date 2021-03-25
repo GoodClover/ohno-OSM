@@ -108,11 +108,15 @@
 
 ... someone converts the country of Canada to a bus stop.
 
+... someone converts a bus stop to a country.
+
 ... someone adds `public_transport:version=3` to a bus route relation.
 
 ... someone maps multiple tennis courts as one.
 
 ... you cannot delete any OSM elements for one month.
+
+... you cannot add any OSM elements for one month.
 
 ... someone incorrectly uses `service=driveway`.
 
@@ -124,24 +128,34 @@
 
 ... someone converts a turn restriction to a multipolygon.
 
+... someone converts a multipolygon to a turn restriction.
+
 ... iD gets stuck in one position.
 
 ... one of your changesets is downvoted in OSMCha.
 
 ... someone forgets to add turn restrictions.
 
+... someone adds unnecessary turn restrictions.
+
 ... a node is moved halfway around the world.
 
+... a node is moved by less than a millimeter.
+
 ... someone adds redundant nodes to a straight way.
+
+... someone doesn't add enough nodes to a curved way.
 
 ... the coordinates stored in OSM lose one bit of precision.
 
 ... a bay is wiped off the map.
 
-... somebody uses the `role` key.
+... someone uses the `role` key.
 
-... somebody uses `type=*` on a non-relation.
+... someone uses `type=*` on a non-relation.
 
-... somebody assigns the tag `unicorn:parking_lot` to a garage.
+... someone forgets to add `type=*` on a relation.
+
+... someone assigns the tag `unicorn:parking_lot` to a garage.
 
 ... all of your OpenStreetMap contributions in the past week are deleted irrecoverably.
