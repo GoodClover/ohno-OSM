@@ -35,6 +35,8 @@ In the Map Paint Styles Dialog - right click on a style - some have style settin
 
 In Draw mode, holding the `Alt` key while clicking the mouse will start a new way from the last node.
 
+In Draw mode, holding the `Shift` key while clicking the mouse will start a new way at your mouse position.
+
 Holding the `Alt` key when drag selecting will select the entire object(s) of any node(s) in the selection area.
 
 Left click drag will make a selection rectangle; you can move that rectangle outline by adding a right mouse click without releasing the left click and dragging.
