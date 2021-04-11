@@ -145,3 +145,7 @@
 ... somebody assigns the tag `unicorn:parking_lot` to a garage.
 
 ... all of your OpenStreetMap contributions in the past week are deleted irrecoverably.
+
+... 1000 notes are added in your area.
+
+... someone places 3 notes at the exact same position.
