@@ -41,7 +41,7 @@ Left click drag will make a selection rectangle; you can move that rectangle out
 
 For overlapping objects, middle click the object will cycle objects in a small popup (or `Alt` left click to cycle without popup).
 
-Double left click on an object (area or multipolygon) will select the object (good if you are zoomed out and are not able to click and edge).
+Double left clicking inside an area or multipolygon will select the it. Good if you are zoomed out and are not able to click on the edge or have overlapping ways.
 
 To get perfect pentagon hexagon or octagon (for example, if creating gazebos)  draw a 5, 6 or 8 sided way, then press `O` , `Tools → Align Nodes in a Circle`.
 
@@ -49,8 +49,11 @@ If you have programable buttons on your mouse, set them to your most used shortc
 
 In extrude mode, double click on an existing way to create a new node at that point. This gives fine grained control on what you extrude.
 
-The building tool plugin allows you to add/change the tags used, so instead of building=yes, you could do building=house   or  leisure=swimming_pool access=private  if you plan to add many rectangular pools.  Go to `Data` → `Set building size and shape` → `Avanced...`
- 
+The building tool plugin allows you to add/change the tags used, so instead of `building=yes`, you could do `building=house` or `leisure=swimming_pool` if you plan to add many rectangular pools.
+Go to `Data` → `Set building size and shape` → `Avanced...`.
+
 Select 2 nodes on a way, then select 1 or more other ways, press `Q` and the ways will square corners and align to the 2 selected nodes.
 
-Pressing `Q` on a way will square the corners (orthogonalize).  After squared, you can click on a node in the way and  press `Shift+Q` to undo that node.    This can be useful if a mostly rectangular way has a diagonal section.
+Pressing `Q` on a way will square the corners (orthogonalize).
+After squared, you can click on a node in the way and press `Shift+Q` to undo that node.
+This can be useful if a mostly rectangular way has a diagonal section.
