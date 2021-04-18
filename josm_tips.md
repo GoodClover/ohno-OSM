@@ -63,3 +63,11 @@ This can be useful if a mostly rectangular way has a diagonal section.
 `Shift` double-click on a recently used tag in the tag dialog will add it without closing the dialog. Double-click on recently used tag in the tag dialog will add it and close the dialog.
 
 `Ctr+J` will let you enter Lat/Long to jump to a map location, or copy a url using the current cursor Lat/Long.
+
+`Shift+R` Applies tags from last selected object to the current selected object(s).  
+
+`Shift+C` can create circle arcs in 3 different ways
+-  `Shift+C` makes an arc from the last 3 nodes in the way.  In draw mode lets you draw curves and let you continue seamlessly.
+-  selecting any three nodes, `Shift+C` creates an arc between them.
+-  selecting any three nodes on a way, and the way, `Shift+C` will change the way between the nodes into an arc and proportionally fill in any nodes.
+- 
