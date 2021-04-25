@@ -148,4 +148,4 @@
 
 ... 1000 notes are added in your area.
 
-... someone places 3 notes at the exact same position.
+... someone places 4 notes at the exact same position.
