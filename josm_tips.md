@@ -70,4 +70,6 @@ This can be useful if a mostly rectangular way has a diagonal section.
 -  `Shift+C` makes an arc from the last 3 nodes in the way.  In draw mode lets you draw curves and let you continue seamlessly.
 -  selecting any three nodes, `Shift+C` creates an arc between them.
 -  selecting any three nodes on a way, and the way, `Shift+C` will change the way between the nodes into an arc and proportionally fill in any nodes.
-- 
+
+When in angle-snapping mode (press `A` when in draw mode to enable angle snapping), press `Ctrl` and move your mouse over another way segment.
+Angle snapping will now run relative to that way, making it easy to draw parallel or perpendicular ways.
