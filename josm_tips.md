@@ -73,3 +73,5 @@ This can be useful if a mostly rectangular way has a diagonal section.
 
 When in angle-snapping mode (press `A` when in draw mode to enable angle snapping), hold `Ctrl` and move your mouse over another way segment.
 Angle snapping will now run relative to that way, making it easy to draw parallel or perpendicular ways.
+
+If you want to edit something in JOSM without the risk of touching a boundary, select the boundary and press `Ctrl+Shift+P` to purge it from the downloaded data and not edit it.
