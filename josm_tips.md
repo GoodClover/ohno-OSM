@@ -1,4 +1,4 @@
-`Preferences → OSM Data → Draw inactive layers in other color`
+*`Preferences` → `OSM Data` → `Draw inactive layers in other color`*
 Checked by default, this will grey out map objects on inactive layers.
 Unchecking will let you see these objects on the active layer.
 Example use - download osm task manager grid as background layer.
@@ -20,7 +20,7 @@ That will solve issues with other elements that are connected to these nodes/way
 
 Selecting multiple POIs and pressing `L` will line them all in a row.
 
-The `TAB` key will hide/show the docked window panels, but not the undocked panels.
+The `Tab` key will hide/show the docked window panels, but not the undocked panels.
 
 The tilde (`~`) key will reorder the imagery layers.
 
@@ -45,33 +45,34 @@ For overlapping objects, middle click the object will cycle objects in a small p
 
 Double left clicking inside an area or multipolygon will select the it. Good if you are zoomed out and are not able to click on the edge or have overlapping ways.
 
-To get perfect pentagon hexagon or octagon (for example, if creating gazebos)  draw a 5, 6 or 8 sided way, then press `O` , `Tools → Align Nodes in a Circle`.
+To get perfect pentagon hexagon or octagon (for example, if creating gazebos)  draw a 5, 6 or 8 sided way, then press `O`, *`Tools` → `Align Nodes in a Circle`*.
 
-If you have programable buttons on your mouse, set them to your most used shortcuts.  examples: `Q`, `]`, `DEL`, `CTRL+Z`.
+If you have programable buttons on your mouse, set them to your most used shortcuts. Examples: `Q`, `]`, `Del`, `Ctrl-Z`.
 
 In extrude mode, double click on an existing way to create a new node at that point. This gives fine grained control on what you extrude.
 
 The building tool plugin allows you to add/change the tags used, so instead of `building=yes`, you could do `building=house` or `leisure=swimming_pool` if you plan to add many rectangular pools.
-Go to `Data` → `Set building size and shape` → `Avanced...`.
+Go to *`Data` → `Set building size and shape` → `Avanced…`*.
 
 Select 2 nodes on a way, then select 1 or more other ways, press `Q` and the ways will square corners and align to the 2 selected nodes.
 
 Pressing `Q` on a way will square the corners (orthogonalize).
-After squared, you can click on a node in the way and press `Shift+Q` to undo that node.
+After squared, you can click on a node in the way and press `Shift-Q` to undo that node.
 This can be useful if a mostly rectangular way has a diagonal section.
 
-`Shift` double-click on a recently used tag in the tag dialog will add it without closing the dialog. Double-click on recently used tag in the tag dialog will add it and close the dialog.
+`Shift` double-click on a recently used tag in the tag dialog will add it without closing the dialog.
+Double-click on recently used tag in the tag dialog will add it and close the dialog.
 
-`Ctr+J` will let you enter Lat/Long to jump to a map location, or copy a url using the current cursor Lat/Long.
+`Ctrl-J` will let you enter Lat/Long to jump to a map location, or copy a url using the current cursor Lat/Long.
 
-`Shift+R` Applies tags from last selected object to the current selected object(s).  
+`Shift-R` Applies tags from last selected object to the current selected object(s).  
 
-`Shift+C` can create circle arcs in 3 different ways
--  `Shift+C` makes an arc from the last 3 nodes in the way.  In draw mode lets you draw curves and let you continue seamlessly.
--  selecting any three nodes, `Shift+C` creates an arc between them.
--  selecting any three nodes on a way, and the way, `Shift+C` will change the way between the nodes into an arc and proportionally fill in any nodes.
+`Shift-C` can create circle arcs in 3 different ways
+- `Shift-C` makes an arc from the last 3 nodes in the way. In draw mode lets you draw curves and let you continue seamlessly.
+- selecting any three nodes, `Shift-C` creates an arc between them.
+- selecting any three nodes on a way, and the way, `Shift-C` will change the way between the nodes into an arc and proportionally fill in any nodes.
 
 When in angle-snapping mode (press `A` when in draw mode to enable angle snapping), hold `Ctrl` and move your mouse over another way segment.
 Angle snapping will now run relative to that way, making it easy to draw parallel or perpendicular ways.
 
-If you want to edit something in JOSM without the risk of touching a boundary, select the boundary and press `Ctrl+Shift+P` to purge it from the downloaded data and not edit it.
+If you want to edit something in JOSM without the risk of touching a boundary, select the boundary and press `Ctrl-Shift-P` to purge it from the downloaded data and not edit it.
