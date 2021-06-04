@@ -1,7 +1,7 @@
 # Humans
 
 <!-- Always add to the bottom of this file. -->
-<!-- I reccomend linking to your OSM profile. -->
+<!-- I recommend linking to your OSM profile. -->
 
 Amanda#2524
 •
