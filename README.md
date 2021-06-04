@@ -10,14 +10,20 @@ Credit to all the [humans](./humans.md).
 
 [What started this](https://discord.com/channels/413070382636072960/428209373953916930/806898462053761066 "We thought it would be funny to make a bot that responded to someone saying \"Google Maps\" with one of these.") (OSM World Discord)
 
-## How the file works
+## Contributing info
+
+* Separate entries with two newlines `␤␤`, i.e. there should be a blank line between each entry.
+* Encapsulate tags in \`, e.g. `highway=footway`.
+* Keyboard shortcuts should use `-` as a delimiter and be in Proper Case, e.g. `Ctrl-Z`. For strings of keys use a space, but keep it within the same \`s, e.g. `Ctrl-A Del`.
+* Follow the formatting of the other messages :P
+* If you contribute, add yourself to the [humans](./humans.md) file :)
+
+### ohno.md
 
 * Messages have a somewhat bad outcome.
-* Please keep to the same tense as the rest of the messages. As a rule of thumb it should sound normal following "When you do x ..."
-* Each message should preferably be on a single line, with blank lines between messages.
-* Messages should start with `...`.
-* Encapsulate tags in \`, e.g. `highway=footway`.
-* If you contribute, add yourself to the [humans](./humans.md) file :)
+* Please keep to the same tense as the rest of the messages. As a rule of thumb it should sound normal following "When you do xyz, …"
+* Each message should preferably be on a single line.
+* Messages should start with `…`.
 
 ## License
 
