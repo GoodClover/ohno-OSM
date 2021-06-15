@@ -60,7 +60,7 @@ Pressing `Q` on a way will square the corners (orthogonalize).
 After squared, you can click on a node in the way and press `Shift-Q` to undo that node.
 This can be useful if a mostly rectangular way has a diagonal section.
 
-`Shift` double-click on a recently used tag in the tag dialog will add it without closing the dialog.
+`Shift` click or `Shift` double-click on a recently used tag in the tag dialog will add it without closing the dialog.
 Double-click on recently used tag in the tag dialog will add it and close the dialog.
 
 `Ctrl-J` will let you enter Lat/Long to jump to a map location, or copy a url using the current cursor Lat/Long.
