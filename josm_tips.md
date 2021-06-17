@@ -7,7 +7,7 @@ Click on a node to select it, `Shift` + click to add to selection, `Ctrl` + clic
 
 The continuous download plugin automatically downloads the area when you pan to a new area.
 
-Drawing a way with buildingtools (`B`) while holding `Alt` will create a perfectly rectangular way without any tags.
+Creating a way with Draw building (`B`) while holding `Alt` will create a perfectly rectangular way without any tags.
 
 When dragging a node, hold `Ctrl` to automatically merge it with nearby nodes.
 
@@ -52,7 +52,7 @@ If you have programable buttons on your mouse, set them to your most used shortc
 In extrude mode, double click on an existing way to create a new node at that point. This gives fine grained control on what you extrude.
 
 The building tool plugin allows you to add/change the tags used, so instead of `building=yes`, you could do `building=house` or `leisure=swimming_pool` if you plan to add many rectangular pools.
-Go to *`Data` → `Set building size and shape` → `Avanced…`*.
+Go to *`Data` → `Set building size and shape` → `Advanced…`*.
 
 Select 2 nodes on a way, then select 1 or more other ways, press `Q` and the ways will square corners and align to the 2 selected nodes.
 
