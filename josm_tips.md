@@ -37,6 +37,8 @@ In Draw mode, holding the `Alt` key while clicking the mouse will start a new wa
 
 In Draw mode, holding the `Shift` key while clicking the mouse will start a new way at your mouse position.
 
+In Draw mode, holding the `Ctrl` key while clicking the mouse will prevent added nodes from being glued to other objects/nodes.
+
 Holding the `Alt` key when drag selecting will select the entire object(s) of any node(s) in the selection area.
 
 Left click drag will make a selection rectangle; you can move that rectangle outline by adding a right mouse click without releasing the left click and dragging.
@@ -76,3 +78,5 @@ When in angle-snapping mode (press `A` when in draw mode to enable angle snappin
 Angle snapping will now run relative to that way, making it easy to draw parallel or perpendicular ways.
 
 If you want to edit something in JOSM without the risk of touching a boundary, select the boundary and press `Ctrl-Shift-P` to purge it from the downloaded data and not edit it.
+
+Using *`File` Upload selection...* will allow you to upload the selected objects and minimize the uploads bounding box to that selection.
