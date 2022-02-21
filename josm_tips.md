@@ -80,3 +80,5 @@ Angle snapping will now run relative to that way, making it easy to draw paralle
 If you want to edit something in JOSM without the risk of touching a boundary, select the boundary and press `Ctrl-Shift-P` to purge it from the downloaded data and not edit it.
 
 Using *`File` Upload selection...* will allow you to upload the selected objects and minimize the uploads bounding box to that selection.
+
+If you are suffering from performance issues, try running on the latest Oracle JDK or increasing your max heap size using `-Xmx4G`.
